@@ -1,0 +1,6 @@
+commands.txt
+*.log
+.idea
+cdk.out
+WAF_Stack/__pycache__
+venv
